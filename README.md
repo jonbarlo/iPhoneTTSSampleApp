@@ -1,4 +1,4 @@
-# iPhoneTTSSampleApp
+# iPhone TTS Sample App (Text to speech objective-c project)
 
 This is a sample app for iPhone TTS - which is a port of CMU's Festival-Lite (aka flite) library to the iPhone/iOS platform.
 Homepage: http://bitbucket.org/sfoster/iphone-tts/
